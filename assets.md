@@ -1,0 +1,5 @@
+base-url='https://api.themoviedb.org/3/movie/550?api_key=eb36d5176d9aac26aedc324183a591a1'
+
+Api key ='eb36d5176d9aac26aedc324183a591a1'
+
+access-token = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlYjM2ZDUxNzZkOWFhYzI2YWVkYzMyNDE4M2E1OTFhMSIsInN1YiI6IjYzYWFiYjM4ZGQ5MjZhMDBjN2NkZmEzYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.7yTvWCOv89ogifl-9DB-h6rB0QjKwPUU_XgqEOL24nk'
